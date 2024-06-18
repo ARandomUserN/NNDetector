@@ -1,0 +1,12 @@
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\NNDetector.exe.config
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\NNDetector.exe
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\NNDetector.pdb
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\MathNet.Numerics.dll
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\System.ValueTuple.dll
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\MathNet.Numerics.xml
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\bin\Release\System.ValueTuple.xml
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\obj\Release\NNDetector.csproj.AssemblyReference.cache
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\obj\Release\NNDetector.csproj.CoreCompileInputs.cache
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\obj\Release\NNDetector.csproj.Up2Date
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\obj\Release\NNDetector.exe
+C:\Users\aforu\Desktop\Mgr\sem2\Projekt\NNDetector\NNDetector\obj\Release\NNDetector.pdb
